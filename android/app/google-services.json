@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30920803024",
+    "project_id": "srswapper-d5587",
+    "storage_bucket": "srswapper-d5587.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30920803024:android:6a16c994f4db4c84db54d5",
+        "android_client_info": {
+          "package_name": "com.example.new_proj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC01T12scTLGDk8_5nv32hK9xLL5IkNzk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
